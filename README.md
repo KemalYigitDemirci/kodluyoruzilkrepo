@@ -1,5 +1,6 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+
 ---
 ## Installation
 
@@ -22,6 +23,7 @@ code .
 ## Contributing
 
 Pull Requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
+
 ---
 ## License
 
