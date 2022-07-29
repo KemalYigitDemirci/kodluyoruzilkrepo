@@ -5,7 +5,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 ## Photograph 
 
-![](https://prnt.sc/aMezoCAILlZg)
+![Görsel](https://prnt.sc/aMezoCAILlZg)
 
 ## Installation
 
