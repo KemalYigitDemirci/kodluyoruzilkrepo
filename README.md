@@ -5,7 +5,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 ## Photograph 
 
-![Görsel](https://prnt.sc/aMezoCAILlZg)
+![](https://github.com/KemalYigitDemirci/kodluyoruzilkrepo/blob/main/Screenshot_1.png)
 
 ## Installation
 
